@@ -10,4 +10,3 @@ OWNER_ID = int(getenv("OWNER_ID", "7430438132"))
 MONGODB_CONNECTION_STRING = getenv("MONGO_DB", "mongodb+srv://eraon8:d0DiBsv96iEW8JSb@rameshlal.errc5t2.mongodb.net/?retryWrites=true&w=majority&appName=Rameshlal")
 LOG_GROUP = int(getenv("LOG_GROUP", "-1002186478269"))
 FORCESUB = getenv("FORCESUB", "SBIJuniorAssociateJAClerk")
-
